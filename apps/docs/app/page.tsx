@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
       <Header text="Docs" />
-      <p>Test text1</p>
+      <p>Test text2</p>
       <Button />
     </>
   );
